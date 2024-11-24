@@ -1,0 +1,44 @@
+ClassId,SignName,
+0,Speed limit (20km/h)                              ,50
+1,Speed limit (30km/h)                              ,50
+2,Speed limit (50km/h)                              ,50
+3,Speed limit (60km/h)                              ,50
+4,Speed limit (70km/h)                              ,50
+5,Speed limit (80km/h)                              ,50
+6,End of speed limit (80km/h)                       ,50
+7,Speed limit (100km/h)                             ,50
+8,Speed limit (120km/h)                             ,50
+9,No passing                                        ,50
+10,No passing for vehicles over 3.5 metric tons      ,50
+11,Right-of-way at the next intersection             ,50
+12,Priority road                                     ,50
+13,Yield                                             ,50
+14,Stop                                              ,50
+15,No vehicles                                       ,50
+16,Vehicles over 3.5 metric tons prohibited          ,50
+17,No entry                                          ,50
+18,General caution                                   ,50
+19,Dangerous curve to the left                       ,50
+20,Dangerous curve to the right                      ,50
+21,Double curve                                      ,50
+22,Bumpy road                                        ,50
+23,Slippery road                                     ,50
+24,Road narrows on the right                         ,50
+25,Road work                                         ,50
+26,Traffic signals                                   ,50
+27,Pedestrians                                       ,50
+28,Children crossing                                 ,50
+29,Bicycles crossing                                 ,50
+30,Beware of ice/snow                                ,50
+31,Wild animals crossing                             ,50
+32,End of all speed and passing limits               ,50
+33,Turn right ahead                                  ,50
+34,Turn left ahead                                   ,50
+35,Ahead only                                        ,50
+36,Go straight or right                              ,50
+37,Go straight or left                               ,50
+38,Keep right                                        ,50
+39,Keep left                                         ,50
+40,Roundabout mandatory                              ,50
+41,End of no passing                                 ,50
+42,End of no passing by vehicles over 3.5 metric tons,50
